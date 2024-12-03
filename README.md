@@ -85,8 +85,8 @@ A React-based Role-Based Access Control (RBAC) dashboard built with Material UI 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rbac-dashboard.git
-cd rbac-dashboard
+git https://github.com/akanksha509/RBAC-.git
+cd RBAC-
 ```
 
 2. Install dependencies:
@@ -115,15 +115,15 @@ http://localhost:5173
 
 ```
 src/
-├── components/          # Reusable UI components
-├── data/               # Mock data and API simulation
+├── api/                # Custom hooks and API-related logic
+├── components/         # Reusable UI components
+├── data/               # Mock data 
+├── layouts/            # Layout components for consistent structure
 ├── pages/              # Main page components
-├── services/           # API services and React Query hooks
-├── hooks/              # Custom hooks
-├── theme/              # Theme configuration
-├── types/              # TypeScript types/interfaces
-├── utils/              # Utility functions
-└── App.tsx             # Main application component
+├── SessionContext.js   # Context for session and global state
+├── main.jsx            # Entry point for the React app
+└── App.jsx             # Root component with routes and high-level logic
+
 ```
 
 ## Usage
@@ -150,14 +150,7 @@ src/
    - Select resources and configure their access levels
    - Manage existing roles
 
-## Contributing
+## Demo Link 
+https://rbacakankshathakur.vercel.app/
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Video Link 
