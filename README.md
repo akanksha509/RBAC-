@@ -26,8 +26,8 @@ A React-based Role-Based Access Control (RBAC) dashboard built with Material UI 
 
 - Navigation menu for Users, Roles, and Permissions pages
   <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/516b3765-b985-424a-99ca-86f2e60d44d8" width="300" />
-  <img src="https://github.com/user-attachments/assets/796a40f6-847c-4cc6-ae52-6ca34d5da458" width="300" />
+  <img src="https://github.com/user-attachments/assets/516b3765-b985-424a-99ca-86f2e60d44d8" hight="500" width="500" />
+  <img src="https://github.com/user-attachments/assets/796a40f6-847c-4cc6-ae52-6ca34d5da458" hight="500" width="500" />
 </div>
 - Clean and intuitive user interface
 
