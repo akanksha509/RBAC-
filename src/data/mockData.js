@@ -2,7 +2,7 @@
 let users = [
   {
     user_id: "1",
-    name: "John Doe",
+    name: "Siddhi",
     avatar: "",
     status: "Active",
     role_id: "admin",
