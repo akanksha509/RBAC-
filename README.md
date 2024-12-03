@@ -8,10 +8,10 @@ A React-based Role-Based Access Control (RBAC) dashboard built with Material UI 
 
 - Secure sign-in page with email and password validation
 - Password requirement: #Hello654#
-<img src="https://github.com/user-attachments/assets/e419077b-52cb-40b2-bf37-e19d26db5424" width="500" height="300" />
+![Screenshot 2024-12-03 114935](https://github.com/user-attachments/assets/e419077b-52cb-40b2-bf37-e19d26db5424)
 
 - Form validation with error messages
-<img src="https://github.com/user-attachments/assets/f2684d87-3297-4af2-89f9-9b469db27a48" width="500" height="300" /> 
+![Screenshot 2024-12-03 125649](https://github.com/user-attachments/assets/f2684d87-3297-4af2-89f9-9b469db27a48)
 
 - Protected routes for authenticated users
 
