@@ -8,7 +8,7 @@ A React-based Role-Based Access Control (RBAC) dashboard built with Material UI 
 
 - Secure sign-in page with email and password validation
 - Password requirement: #Hello654#
-  ![Screenshot 2024-12-03 114935](https://github.com/user-attachments/assets/e419077b-52cb-40b2-bf37-e19d26db5424)
+  ![Screenshot 2024-12-03 114935](https://github.com/user-attachments/assets/15c69184-7214-41f2-8f42-b3ed97f97d48)
 
 - Form validation with error messages
   ![Screenshot 2024-12-03 125649](https://github.com/user-attachments/assets/f2684d87-3297-4af2-89f9-9b469db27a48)
@@ -22,10 +22,13 @@ A React-based Role-Based Access Control (RBAC) dashboard built with Material UI 
   ![Screenshot 2024-12-03 115038](https://github.com/user-attachments/assets/561c1251-bd12-4078-ad52-5fc542294c03)
   
 - User profile menu with sign-out functionality
-  ![Screenshot 2024-12-03 115122](https://github.com/user-attachments/assets/fe6f807d-9ca5-4e51-bcbc-135e93467119)
+  ![Screenshot 2024-12-03 115101](https://github.com/user-attachments/assets/717a7cfd-58f4-419d-8206-f385436b9a5e)
 
 - Navigation menu for Users, Roles, and Permissions pages
-  
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/516b3765-b985-424a-99ca-86f2e60d44d8" width="300" />
+  <img src="https://github.com/user-attachments/assets/796a40f6-847c-4cc6-ae52-6ca34d5da458" width="300" />
+</div>
 - Clean and intuitive user interface
 
 ### Common Features Across Pages
